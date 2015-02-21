@@ -1,0 +1,13 @@
+{
+    "name": "charmeleon/phpjs",
+    "description": "A PHP project for server-side JavaScript rendering with PHP-V8Js",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Erick Rivas",
+            "email": "chemical.rivas@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
