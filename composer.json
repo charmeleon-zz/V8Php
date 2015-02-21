@@ -1,6 +1,7 @@
 {
     "name": "charmeleon/phpjs",
-    "description": "A PHP project for server-side JavaScript rendering with PHP-V8Js",
+    "description": "A PHP project for server-side JavaScript rendering with V8Js",
+    "keywords": ["v8", "v8php", "v8js", "javascript", "js"],
     "license": "MIT",
     "authors": [
         {
@@ -11,8 +12,10 @@
     "minimum-stability": "stable",
     "autoload": {
       "psr-4": {
-        "PhpJs\\": "src"
+        "V8Phpls\\": "src"
       }
+    },
+    "require": {
+        "php": ">=5.3.0"
     }
-    "require": {}
 }
