@@ -1,8 +1,8 @@
 <?php
 
-namespace PhpJs;
+namespace V8Php;
 
-class PhpJs {
+class V8Php {
 
     /**
      * @var V8Js A v8js object, held in cache
